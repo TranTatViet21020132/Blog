@@ -26,4 +26,4 @@
     * Khả năng chỉnh sửa quyền admin, thêm hay bớt tài khoản người dùng.
     * Edit post để trở thành featured post, tức bài viết đề xuất bởi admin. Khi đó bài viết đó sẽ được hiện lên đầu trang cho mọi người có thể thấy rõ hơn, ngoài ra nếu tạo 1 bài đăng mới và chọn bài viết đó là featured thì sẽ đẩy featured post cũ ra và thay là bài mới.
 # 4. Demo trang web:
-Đường link: 
+* **Đường link:**
